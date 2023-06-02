@@ -1,0 +1,18 @@
+
+html {
+    background-color: rgb(132, 99, 104);
+    color: aliceblue;
+}
+
+table tr td {
+    width: 75px;
+    height: 75px;
+}
+
+.color1 {
+    background-color: rgb(53, 53, 126);
+}
+
+.color2 {
+    background-color: rgb(158, 78, 78);
+}
